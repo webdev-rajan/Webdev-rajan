@@ -1,20 +1,6 @@
-8## Hi there 👋
+un8## Hi there 👋
 Coding • Learning • Building • Growing
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things!" /> </div>
-🔥 About Me
-
-💻 I love writing clean & optimized code
-
-🌱 Currently learning JavaScript, Python & Web Development
-
-🎯 Goal: Become a top-level developer
-
-📧 Email: your-email@example.com
-
-🔗 Portfolio: your-website.com
-
-⭐ Thanks for Visiting My Profile!
-<div align="center">
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things!" /> </div
 
 -->
 <h1 align="center">Hi 👋, I'm Rajan</h1>
