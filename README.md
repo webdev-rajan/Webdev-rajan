@@ -1,5 +1,40 @@
 ## Hi there 👋
+Coding • Learning • Building • Growing
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things!" /> </div>
+🔥 About Me
 
+💻 I love writing clean & optimized code
+
+🌱 Currently learning JavaScript, Python & Web Development
+
+🎯 Goal: Become a top-level developer
+
+🤝 Open to collaboration & new ideas
+
+🛠️ Skills
+<div align="center">
+Category	Skills
+Frontend	HTML, CSS, JavaScript
+Backend	Python, Node.js
+Database	MySQL, MongoDB
+Tools	Git, GitHub, VS Code
+</div>
+⚙️ GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="49%" /> </div>
+🚀 Top Languages
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" /> </div>
+📫 Connect With Me
+
+📧 Email: your-email@example.com
+
+🔗 Portfolio: your-website.com
+
+⭐ Thanks for Visiting My Profile!
+<div align="center">
+
+✨ “Code. Create. Innovate.” ✨
+
+</div>
 <!--
 **webdev-rajan/Webdev-rajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
