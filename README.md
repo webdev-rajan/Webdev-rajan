@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things!" /> </div
 
 -->
-<h1 align="center">Hi 👋, I'm Rajan</h1>
+<h1 align="center">Hi 👋, This is a Rajan</h1>
 <h3 align="center">A passionate coder & learner from India</h3>
 
 ---
