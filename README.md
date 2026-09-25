@@ -1,169 +1,82 @@
+# 👋 Hi, I'm Rajan Kumar
 
+### 💻 Frontend Developer | React.js Learner | Web Developer
 
-
--->
-<h1 align="center">Hi 👋, This is a Rajan</h1>
-<h3 align="center">A passionate coder & learner from India</h3>
-
----
-
-### 🚀 About Me  
-- 🔭 I’m currently working on **Web Development & Python Projects**  
-- 🌱 I’m learning **JavaScript, Python, HTML, CSS**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 📫 How to reach me: **your-email@example.com**  
-- ⚡ Fun fact: I love learning something new every day.
+I'm a passionate web developer from India who loves building modern,
+responsive and user-friendly web applications.
 
 ---
 
-### 🛠️ Skills & Tools  
+## 🚀 About Me
 
-#### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
-
-#### **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-### 🔥 Streak Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=radical" />
-</p>
-
----
-
-### 🌐 Connect With Me  
-<p>
-  <a href="https://github.com/YOUR-USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
-
----
-
-### 🧩 Fun Projects  
-- 💡 **Project 1:** Description  
-- ⚙️ **Project 2:** Description  
-- 🔗 More coming soon…
-
----
-
-### ⭐ Show Some Love  
-If you like my work, consider giving a ⭐ to my repositories!
-<h1 align="center">👋 Hey, I'm Your Name</h1>
-<h3 align="center">🚀 Full Stack Developer | 💡 Problem Solver | 🇮🇳 India</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things🔥">
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🔭 I’m currently working on **Cool Web Projects**
-- 🌱 I’m learning **MERN Stack & AI/ML**
-- 💬 Ask me about **JavaScript, React, Node.js, Python**
-- ⚡ Fun fact: **I turn coffee into code ☕**
-- 🎯 Goal: **Become a top developer & contribute to Open Source**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
+- 🔭 Currently working on **React.js Projects**
+- 🌱 Learning **React.js, Node.js & Express.js**
+- 💻 Interested in **Frontend & Full Stack Development**
+- 🎯 Goal: Become a Professional Full Stack Developer
+- 📚 Always learning new technologies
+- ⚡ I love turning ideas into real projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,cpp,git,github,vscode" />
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 📌 My Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180"/>
-</p>
+### 🐶 Dog CEO App
+React.js application using Dog API to display dog breeds and images.
 
----
+### 🎬 Movie App
+Movie application built with React.js and TMDB API.
 
-## 🔥 GitHub Streak Stats
+### ✅ Todo App
+Task management application with categories, priorities and subtasks.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
+### 🍔 Food Delivery Backend
+Node.js + Express.js backend with authentication and API development.
 
 ---
 
-## 🏆 Achievements & Trophies
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=2&column=4" />
-</p>
+![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
----
-
-## 📂 Featured Projects
-
-- 🔹 [Project 1](https://github.com/YOUR_USERNAME/project1) - Short description  
-- 🔹 [Project 2](https://github.com/YOUR_USERNAME/project2) - Short description  
-- 🔹 [Project 3](https://github.com/YOUR_USERNAME/project3) - Short description  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 Activity Graph
+## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
-## 🎯 Goals for 2026
+## 📫 Connect With Me
 
-- 🚀 Build scalable full-stack apps  
-- 🌍 Contribute to Open Source  
-- 🧠 Learn Advanced DSA & System Design  
-- 💼 Get a Developer Job  
+📧 Email: your-email@example.com
 
----
-
-## 💡 Quote
-
-> "Code is like humor. When you have to explain it, it’s bad." 😄
+🌐 GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
-<h3 align="center">⭐ Don't forget to star repositories you like!</h3>
-<h4 align="center">🔥 Keep Coding | 🚀 Keep Growing</h4>
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning • Keep Coding • Keep Growing 🚀**
